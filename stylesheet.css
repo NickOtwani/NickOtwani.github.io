@@ -1,0 +1,22 @@
+.myClass {
+  font-size: 20px;
+  background-color: yellow;
+  padding: 10px;
+  margin: 5px;
+}
+#myId {
+  font-weight: bold;
+  text-decoration: underline;
+}
+a:hover {
+  color: green;
+}
+
+
+h1 {
+  color: blue;
+}
+
+.myClass {
+  color: red;
+}
